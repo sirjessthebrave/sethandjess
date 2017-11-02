@@ -1,124 +1,148 @@
 html {
-	padding: 80px;
-	/* color:#F3D8BA; */
-	/* color: #005f38; */
-	/* background-image: url('js-tile.png'); */
+    padding: 80px;
+    /* color:#F3D8BA; */
+    /* color: #005f38; */
+    /* background-image: url('js-tile.png'); */
 }
+
 .clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
+    content: "";
+    display: table;
+    clear: both;
 }
+
 body {
-	border: solid 5px #005f38;
-	padding:100px;
-	font-family: 'Josefin Slab', sans-serif;
+    border: solid 5px #005f38;
+    padding: 100px;
+    font-family: 'Josefin Slab', sans-serif;
 }
+
 .main-image img {
-	width: 100%;
-	margin-bottom: 60px;
+    width: 100%;
+    margin-bottom: 60px;
 }
+
 header {
-	margin-bottom: 100px;
+    margin-bottom: 100px;
 }
+
 .logo {
-	margin: 0 auto;
+    margin: 0 auto;
 }
+
 .logo img {
-	width: auto;
-	display: block;
-	margin: 0 auto;
-	height: 200px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    height: 200px;
 }
+
 nav {
-	text-align: center;
+    text-align: center;
 }
+
 a {
-	text-decoration: underline;
-	color: #005f38;
+    text-decoration: underline;
+    color: #005f38;
 }
+
 h1 {
-	font-size: 80px;
-	margin: 0;
+    font-size: 80px;
+    margin: 0;
 }
+
 .line {
-	line-height: 1.6em;
-	margin-top: -0.6em;
-	margin-bottom: 1.6em;
-	font-size: 14px;
-	border-bottom: solid 1px #005f38;
+    line-height: 1.6em;
+    margin-top: -0.6em;
+    margin-bottom: 1.6em;
+    font-size: 14px;
+    border-bottom: solid 1px #005f38;
 }
+
 .bullet-list {
-	list-style-type: disc;
+    list-style-type: disc;
 }
+
 .bullet-list li {
-	display: block;
+    display: block;
 }
-.bullet-list li a{
-	text-decoration: underline;
-	color: #005f38;
+
+.bullet-list li a {
+    text-decoration: underline;
+    color: #005f38;
 }
+
 ul {
-	padding: 0 20px;
-	list-style: none;
-	background: #ffffff;
-	display: inline;
+    padding: 0 20px;
+    list-style: none;
+    background: #ffffff;
+    display: block;
 }
+
 li {
-	display: inline;
-	padding: 0 20px;
-	font-size: 24px;
+    display: inline;
+    padding: 0 20px;
+    font-size: 24px;
 }
+
 nav li:hover {
-	border-bottom: solid 7px #F3D8BA;
-	line-height: .3;
+    border-bottom: solid 7px #F3D8BA;
+    line-height: .3;
 }
-li a{
-	text-decoration: none;
-	color: #000000;
+
+li a {
+    text-decoration: none;
+    color: #000000;
 }
+
 .logo-text {
-	padding-bottom: 60px;
-	font-family: 'Josefin Sans', sans-serif;
+    padding-bottom: 60px;
+    font-family: 'Josefin Sans', sans-serif;
 }
+
 .logo-text ul {
-	display: block;
-	margin: 60px 0px;
+    display: block;
+    margin: 60px 0px;
 }
+
 .logo-text li {
-	width: 33.33333%;
-	box-sizing: border-box;
-	display: block;
-	float: left;
-	color: rgba(0, 0, 0, 0.3);
-	text-align: center;
-	font-size: 18px;
-	text-transform: uppercase;
+    width: 33.33333%;
+    box-sizing: border-box;
+    display: block;
+    float: left;
+    color: rgba(0, 0, 0, 0.3);
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
 }
+
 .logo-text li.left {
-	text-align: left;
+    text-align: left;
 }
+
 .logo-text li.right {
-	text-align: right;
+    text-align: right;
 }
-.main-text{
-	font-family: 'Josefin Slab', serif;
-	width: 70%;
-	margin: 0 auto;
-	line-height: 1.5;
-	font-size: 20px;
-	padding: 20px 0px;
+
+.main-text {
+    font-family: 'Josefin Slab', serif;
+    width: 70%;
+    margin: 0 auto;
+    line-height: 1.5;
+    font-size: 20px;
+    padding: 20px 0px;
 }
+
 .rsvp-link {
-	padding: 20px 40px;
-	background-color: #005f38;
-	color: #F3D8BA;
-	border-radius: 4px;
-	text-decoration: none;
-	font-family: 'Josefin Sans', sans-serif;
-	text-align: center;
-	font-size: 24px;
-	margin: 0 auto;
-	display: block;
-	width: 50%;
+    padding: 20px 40px;
+    background-color: #005f38;
+    color: #F3D8BA;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 24px;
+    margin: 0 auto;
+    display: block;
+    width: 50%;
 }
