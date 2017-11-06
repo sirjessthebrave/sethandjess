@@ -139,6 +139,10 @@ li a {
     font-weight: 700;
 }
 
+.center {
+    text-align: center;
+}
+
 .rsvp-link {
     padding: 20px 40px;
     background-color: #005f38;
