@@ -53,7 +53,7 @@ h1 {
 
 .line {
     line-height: 1.6em;
-    margin-top: -0.6em;
+    margin-top: -0.8em;
     margin-bottom: 1.6em;
     font-size: 14px;
     border-bottom: solid 1px #005f38;
@@ -76,7 +76,7 @@ ul {
     padding: 0 20px;
     list-style: none;
     background: #ffffff;
-    display: block;
+    display: inline;
 }
 
 li {
