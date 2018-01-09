@@ -139,6 +139,15 @@ li a {
     font-weight: 700;
 }
 
+.main-text.events h3 {
+    text-transform: uppercase;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgba(0, 0, 0, 0.3);
+}
+.main-text.events p{
+    border-left: solid 3px #005f38;
+    padding-left: 20px;
+}
 .center {
     text-align: center;
 }
@@ -146,7 +155,7 @@ li a {
 .rsvp-link {
     padding: 20px 40px;
     background-color: #005f38;
-    color: #F3D8BA;
+    color: #ffffff;
     border-radius: 4px;
     text-decoration: none;
     font-family: 'Josefin Sans', sans-serif;
