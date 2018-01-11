@@ -165,3 +165,8 @@ li a {
     display: block;
     width: 50%;
 }
+
+.map {
+    width: 100%;
+    height: 26em;
+}
