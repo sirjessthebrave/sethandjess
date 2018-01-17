@@ -17,8 +17,12 @@ body {
     font-family: 'Josefin Slab', sans-serif;
 }
 
+.main-image {
+    text-align: center;
+}
+
 .main-image img {
-    width: 100%;
+    width: 65%;
     margin-bottom: 60px;
 }
 
