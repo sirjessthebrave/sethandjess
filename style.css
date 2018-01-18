@@ -89,7 +89,7 @@ li {
     font-size: 24px;
 }
 
-nav li:hover {
+nav li:hover a {
     border-bottom: solid 7px #F3D8BA;
     line-height: .3;
 }
