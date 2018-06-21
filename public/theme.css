@@ -120,3 +120,14 @@ footer a {
   top: 50%;
   width: 48px;
 }
+#photo-info {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  font-family: 'Josefin Slab', serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+#photo-info strong {
+  font-weight: 600;
+}
