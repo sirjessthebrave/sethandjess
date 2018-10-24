@@ -1,55 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>S&J</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
-  <link href="https://fonts.googleapis.com/css?family=Lato:300,900|Markazi+Text" rel="stylesheet">
-  <script src="main.js"></script>
-  <style>
-    body{
-      width: 600px; margin: 0 auto; font-family: 'Lato', sans-serif; font-weight: 300;
-    }
-    h1 {margin:0;font-family: 'Markazi Text', serif; font-size: 70px;}
-    h2 {margin:0}
-    strong{
-      font-weight: 900;
-    }
-    p{ line-height: 1.5;}
-  </style>
-</head>
-<body>
-  <img src="packing.jpg" style="width: 100%;"/>
-  <h1>Goodbye DC, Hello World </h1>
+---
+layout: main
+---
+{% for post in paginator.posts %}
+<article class="post">
+  {% if post.img %}
+    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+  {% else %}
+  {% endif %}
+  <div class="post-content">
+    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+    <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
+    <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+  </div>
+</article>
+{% endfor %}
 
-  <p>Seth and I started planning this journey over 2 years ago. In truth, we planned this much more than we planned our wedding! It started off as a desire to live in Berlin for a year or two but has morphed into a worldwide, working while traveling, airbnb-ing adventure. Our plan is to hit every major geographical region, eat all the local delicacies, be OK with getting lost, and try to be present - this is when life stops being nice and starts getting real (JK we are going on the adventure of a lifetime, I am sure most of it won’t feel real).</p>
- 
-  <p>On Saturday, we are headed to Mexico City to start a multiyear exploration. Spending 3 months in each location to enjoy a slower pace than vacation travel and still pack in as many stops as we can handle! We plan to visit Argentina, Germany, Croatia, Kenya, South Africa, Thailand, Australia, and Japan. Sticking to the major cities allows us to work remotely and the slower pace accounts for some weekend trips. I guess we are going to be the most stereotypical millennials; working on our laptops in coffee shops around the world, basking in the glow of our apparent superiority, and dying a bit on the inside from the anxiety and stress of watching our political systems and natural environment crumble. Ahh to be free.</p>
-  
-  <p>There is probably a large portion of you who have packed up your lives to move to another place. I did it to move to DC from California 6 years ago. No matter how much I remind myself “I’ve done it before, I can do it again!” I still get hit with a week of anxiety and nerves - How am I going to make new friends? What if my friends here forget I exist? What happens if I get sick and REALLY need Pho 14?!</p>
-   
-  <p>As I prepare to leave, I must admit - the challenge of saying goodbye to DC surprised me. I left my home and family with two suitcases  - and I kinda hated it at first. Too hot, too cold, WAY too humid, too many suits, not enough cheap suits that fit my body type, too much networking, not enough explanation about how one learns to network, just too ‘East Coast’. I was under the impression that I wanted to leave DC ever since I got here. Pre DC Jess favored cut-off jean shorts, working at a cafe, and bad beer. I hope all of you who know me now are giggling.</p>
-   
-  <p>I am not sure when the switch happened. Perhaps it was that one sweaty dance party at Chief Ikes where I thought the floor might fall through. I think it might have been when I realized I didn’t have to search hard in my tech network to fill a panel with under-represented folks (seriously, no excuses for an all-white and/or male panel people!!!). Maybe it was getting married under the shade trees in Rock Creek Park and dancing with all my friends under a 27’’ disco ball at Ivy City Smokehouse. DC shaped me into the kind of person I have always wanted to be and I will always love it for that.</p>
-   
-  <p>I especially want to thank everyone in my tech network. Learning to program was one of the most challenging things I have ever done. Those of you in the field that come from a nontraditional background and identity know that tech can be… well tech. Imposter syndrome, brogrammers, never ending learning, and an emotional roller coaster that both makes you feel like the goddess of the universe and the lowest amoeba in the primordial stew can get exhausting. Take all that with the current state of our politics - the solidarity, support, and sass from #dctech has kept my head above water more times than I can count. To the friends and colleagues I have met here: Thank you. The rest of you? #trash (JK you’re all amazing). </p>
-   
-  <p>So long and thanks for all the crab cakes!</p>
-   
-  Jess & Seth
-  
-  <p><strong>Keep up with our adventures:</strong>
-    <ul>
-      <li><a href="https://goo.gl/forms/qkQLL7i5ZXFy8fbx2">Sign up for our newsletter</a></li>
-      <li>Follow <a href="https://www.instagram.com/sirjessthebrave/">Jess</a> & <a href="https://www.instagram.com/sethpuckett/">Seth</a> on Instagram</li>
-      <li>Follow <a href="https://twitter.com/SirJesstheBrave">Jess</a> & <a href="https://twitter.com/sethpuckett">Seth</a> on Twitter</li>
-      <li>Check <a href="http://www.sethandjess.com/">SethandJess.com</a> periodically for updates </li>
-      <li>Follow the <a href="http://globaltechstories.com/">Global Tech Stories podcast</a>!!!</li>
-    </ul>
-  </p>
-
-
-</body>
-</html>
+{% include pagination.html %}
