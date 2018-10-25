@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're Here!
+title: We Have Arrived!
 date: 2018-10-25
 description:
 img: posts/2018-10-25/angel-banner.jpg
