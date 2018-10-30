@@ -1,15 +1,13 @@
 .sidebar {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
   position: fixed;
   top: 0;
   right: 0;
   bottom: 0;
-  width: 240px;
+  width: 25%;
+  float: left;
   height: 100%;
-  padding: 20px 10px;
-  background-color: $white;
+  padding: 30px;
+  background-color: rgba(0,95,56, .3);
 }
 .about {
   margin: 0 0 40px;
@@ -60,12 +58,8 @@
 }
 .content-box {
   padding: 20px;
-  padding-left: 260px;
-
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: stretch;
+  width: 75%;
+  float: left;
 }
 
 .contact {
@@ -127,6 +121,8 @@
 }
 
 footer {
+  width: 100%;
+
   .copyright {
     font-size: 14px;
     text-align: center;
@@ -137,6 +133,7 @@ footer {
 .post {
   width: 100%;
   max-width: 100%;
+  text-align: right;
   margin-bottom: 1.5rem;
   display: flex;
   flex-direction: row;
@@ -148,7 +145,7 @@ footer {
   box-shadow: 0 1px 1px 0 rgba(31, 35, 46, .15);
   &:hover {
     transform: translate(0px, -2px);
-    box-shadow: 0 15px 45px -10px rgba(10, 16, 34, .2);
+    box-shadow: 0 15px 45px -10px rgba(0,95,56, .3);;
   }
 
   .post-thumbnail {

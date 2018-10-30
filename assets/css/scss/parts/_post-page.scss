@@ -94,11 +94,28 @@
   text-align: center;
 }
 
-img {
+.article-page img {
   margin: 1%;
   width: 45%;
 }
+.page-cover-image img {
+  margin: 0 1%;
+}
 
-img.vertical {
+.article-page img.vertical {
   width: 30%;
+}
+.back-link {
+  display: inline-block;
+  padding: 20px 40px;
+  
+  a {
+    display: inline-block;
+    border-bottom: solid 10px rgba(0, 95, 56, 0.3);
+    line-height: .1;
+    color: #515151;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 3px;
+  }
 }

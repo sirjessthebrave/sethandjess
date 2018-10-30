@@ -2,9 +2,11 @@
 layout: default
 ---
 <div class="content-box clearfix">
-  {{ content }}
+  <div class="main-stage">
+    {{ content }}
+  </div>
 </div>
-<!--<aside class="sidebar">
+<aside class="sidebar">
   <header>
     <div class="about">
       <div class="cover-author-image">
@@ -16,7 +18,7 @@ layout: default
   </header>
   <footer>
     <section class="contact">
-      <h3 class="contact-title">Contact me</h3>
+      <h3 class="contact-title">Contact Us</h3>
       <ul>
         {% if site.social-twitter %}
           <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -50,4 +52,3 @@ layout: default
     </div>
   </footer>
 </aside>
--->
