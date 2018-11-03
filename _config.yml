@@ -9,12 +9,17 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Seth Puckett & Jessica Bell # add your name
 author-img: seth-and-jess.png # add your photo
-about-author: We're two programmers exploring the world! # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+about-author: We're two programmers exploring the world and working remotely. We write about our travels, our work, the people we meet, and the global tech scene.
+social-twitter-seth: sethpuckett
+social-instagram-seth: sethpuckett
+social-github-seth: sethpuckett
+social-linkedin-seth: sethpuckett
+social-email-seth: puckett.seth@gmail.com
+social-twitter-jess: sirjessthebrave
+social-instagram-jess: sirjessthebrave
+social-github-jess: sirjessthebrave
+social-linkedin-jess: jessbell317
+social-email-jess: jess.bell317@gmail.com
 
 # Tracker
 analytics: # Google Analytics
