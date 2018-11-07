@@ -6,6 +6,7 @@ description:
 img: posts/2018-10-12/packing-banner.jpg
 fig-caption:
 tags: [Mexico, Mexico City, Travel]
+author: Jess
 ---
 Seth and I started planning this journey over 2 years ago. In truth, we planned this much more than we planned our wedding! It started off as a desire to live in Berlin for a year or two but has morphed into a worldwide, working while traveling, airbnb-ing adventure. Our plan is to hit every major geographical region, eat all the local delicacies, be OK with getting lost, and try to be present - this is when life stops being nice and starts getting real (JK we are going on the adventure of a lifetime, I am sure most of it won’t feel real).
 

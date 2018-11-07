@@ -6,6 +6,7 @@ description:
 img: posts/2018-10-25/angel-banner.jpg
 fig-caption:
 tags: [Mexico, Mexico City, Travel]
+author: Seth
 ---
 I arrived in Mexico City a little over a week ago. Jess went off for some beach time with friends, so it was just me at first. It felt a little weird stepping into a new apartment in a strange city, not knowing anybody and not really speaking the language. I wasn't stressing about the move or the change while I was still in DC. Once I was here, though, it really started to hit me how big this change was going to be. I started to get a little anxious at the thought of wandering out into the city alone. But I needed to get some things for the apartment and I was going to have to eat eventually. So I charged my phone, studied the local map, and stepped out into my new neighborhood.
 
