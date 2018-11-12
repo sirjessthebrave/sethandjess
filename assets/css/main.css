@@ -774,6 +774,7 @@ html {
 
 body {
   font-family: 'Lato', sans-serif;
+  line-height: 1.75;
   color: #515151;
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -903,6 +904,7 @@ table tfoot td {
 
 .main-stage {
   width: 70%;
+  max-width: 1024px;
   margin: 0 auto;
 }
 
@@ -1315,17 +1317,35 @@ a.newer-posts:hover {
   text-align: center;
 }
 
-.article-page img {
+.article-page .img-container {
   margin: 1%;
   width: 45%;
+  display: inline-block;
+  border: 1px solid #ddd;
+}
+
+.article-page .img-container.vertical {
+  width: 30%;
+}
+
+.article-page .float-left {
+  float: left;
+}
+
+.article-page .float-right {
+  float: right;
+}
+
+.article-page .img-caption {
+  font-size: 12px;
+  text-align: center;
+  color: #555;
+  background-color: #eee;
+  margin: 2px;
 }
 
 .page-cover-image img {
   margin: 0 1%;
-}
-
-.article-page img.vertical {
-  width: 30%;
 }
 
 .back-link {
@@ -1428,6 +1448,9 @@ a.newer-posts:hover {
 
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
+  .main-stage {
+    width: 80%;
+  }
   .sidebar {
     position: relative;
     display: -webkit-box;
@@ -1493,6 +1516,9 @@ a.newer-posts:hover {
   .content-box {
     padding: 10px;
   }
+  .main-stage {
+    width: 90%;
+  }
   .post {
     width: 98%;
     max-width: 100%;
@@ -1514,5 +1540,9 @@ a.newer-posts:hover {
   }
   .post .post-content .post-title a {
     font-size: 21px;
+  }
+  .article-page img.float-left {
+    width: 100%;
+    float: none;
   }
 }

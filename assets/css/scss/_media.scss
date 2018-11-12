@@ -24,6 +24,10 @@
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
+  .main-stage {
+    width: 80%;
+  }
+
   .sidebar {
     position: relative;
     display: flex;
@@ -70,6 +74,9 @@
   .content-box {
     padding: 10px;
   }
+  .main-stage {
+    width: 90%;
+  }
   .post {
     width: 98%;
     max-width: 100%;
@@ -89,5 +96,9 @@
         }
       }
     }
+  }
+  .article-page img.float-left {
+    width: 100%;
+    float: none;
   }
 }
