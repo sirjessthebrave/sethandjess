@@ -22,10 +22,37 @@
   }
 }
 
+/* iPad Pro */
+@media only screen and (max-width : 1024px) {
+  .contact ul {
+    width: 100%;
+  }
+
+  .post .post-content .post-title {
+    font-size: 22px;
+  }
+}
+
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
+  .content-box {
+    width: 100%;
+  }
+
   .main-stage {
-    width: 80%;
+    width: 60%;
+  }
+
+  .main-stage .post {
+    width: 100%;
+  }
+
+  .article-page .img-container {
+    width: 100%;
+  }
+
+  .article-page .img-container.vertical {
+    width: 100%;
   }
 
   .sidebar {
@@ -53,7 +80,7 @@
       border-radius: 100%;
       margin-bottom: 10px;
     }
-}
+  }
 
   .content-box {
     padding: 20px 10px;
@@ -63,8 +90,8 @@
     align-items: stretch;
   }
 
-.contact-title, .copyright {
-  display: none;
+  .contact-title, .copyright {
+    display: none;
 }
 
 }
@@ -81,6 +108,7 @@
     width: 98%;
     max-width: 100%;
     margin: 2%;
+    margin-bottom: 5%;
     flex-direction: column;
 
     .post-thumbnail {
@@ -92,7 +120,7 @@
       .post-title {
         margin: 0 0 5px;
         a {
-          font-size: 21px;
+          font-size: 19px;
         }
       }
     }
