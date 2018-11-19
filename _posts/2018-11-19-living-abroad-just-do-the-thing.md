@@ -28,7 +28,7 @@ Seth and I knew we did not want to rough it like we would have in our early 20â€
   <img src="{{site.baseurl}}/assets/img/posts/2018-11-19/beach.jpg" alt="Looking out a door to a pool over the ocean" />
   <div class="img-caption">It's not all beaches... OK it's some beaches</div>
 </div>
-Having full time remote jobs meant Seth would need to find new employment which was its own challenge. Read about his experience finding remote work here.  My manager was open to me moving to a full time remote employee so I was able to keep my existing job. Try talking to your current employer about remote possibilities - however be aware, they may try to change your status (w2 to 1099) or pay you less - start this process early so you know the financial ground you stand on.
+Having full time remote jobs meant Seth would need to find new employment which was its own challenge. Read about his experience finding remote work [here](http://www.sethandjess.com/2018/11/12/living-abroad-finding-remote-work/){:target="_blank"}.  My manager was open to me moving to a full time remote employee so I was able to keep my existing job. Try talking to your current employer about remote possibilities - however be aware, they may try to change your status (w2 to 1099) or pay you less - start this process early so you know the financial ground you stand on.
 
 Since we lived in Washington DC before the trip, we were used to a high cost of living so many places we will travel are much cheaper. Donâ€™t underestimate your extra travel costs when getting excited about a lower cost of living!
 
