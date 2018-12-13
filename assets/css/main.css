@@ -1325,6 +1325,7 @@ a.newer-posts:hover {
 
 .img-container.full {
   width: 100%;
+  text-align: center;
 }
 
 .article-page .img-container.vertical {
