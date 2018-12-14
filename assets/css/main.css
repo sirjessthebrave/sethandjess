@@ -1163,7 +1163,7 @@ footer .copyright {
 
 .post .post-content .post-title {
   margin: 0 0 10px;
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 400;
 }
 
@@ -1365,6 +1365,22 @@ a.newer-posts:hover {
   text-decoration: none;
   font-size: 20px;
   padding: 3px;
+}
+
+.video-container {
+	position:relative;
+	padding-bottom:56.25%;
+  padding-top:30px;
+	height:0;
+  overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+	position:absolute;
+	top:0;
+	left:5%;
+	width:90%;
+	height:90%;
 }
 
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
