@@ -11,29 +11,29 @@ author: Seth
 
 One of my favorite things about visiting a new place is listening to all the unfamiliar sounds. On every street there are a hundred little things buzzing and clanking if you stop and listen for them. And every place is different! When you're at home it's easy for all that sound to fade away into the background. Once you get used to it you just stop hearing it. That's why it's such a treat to visit a new city, especially one that's far from home. Everything is new, and you can appreciate the music of the streets with ears wide open. And while it's fascinating to take it all in it can also be a bit overwhelming, especially in a sprawling metropolis like Mexico City.
 
-And wow is this place noisy. Shockingly noisy sometimes. Life is lived in the streets here in a way that is different than anywhere else. If you're looking to buy something there's a good chance you'll run into somebody outside selling exactly what you need. You can see (and hear) these street vendors hawking their wares in small markets and on large thoroughfares throughout the city. And not to worry if you're hungry. <a href="https://en.wikipedia.org/wiki/Mexican_street_food" target="_blank">The streets are filled with people making and eating food</a>. Tortas, tacos, chilaquiles, fresh fruit, and everything else. The sounds of sizzling oil, meat on the grill, and vegetables being chopped are ever-present. And the food is great. You should definitely try it if you get the chance. You might experience some intestinal distress if you're not used to this kind of food, but it's worth it.
+And wow is this place noisy. Shockingly noisy sometimes. Life is lived in the streets here in a way that is different than anywhere else. If you're looking to buy something there's a good chance you'll run into somebody outside selling exactly what you need. You can see (and hear) these street vendors hawking their wares in small markets and on large thoroughfares throughout the city. And not to worry if you're hungry. <a href="https://en.wikipedia.org/wiki/Mexican_street_food" target="_blank">The streets are filled with people making and eating food</a>. Tortas, tacos, chilaquiles, fresh fruit, and everything else. The sounds of sizzling oil, meat on the grill, and vegetables being chopped are ever-present. You should definitely try the food if you get the chance. You might experience some intestinal distress if you're not used to it, but it's worth it.
 
 <div class="img-container full">
   <img src="{{site.baseurl}}/assets/img/posts/2018-12-13/foods.jpg" alt="Mexican Street Food" />
   <div class="img-caption">Typical food stall preparing antojitos during a Día de Muertos celebration</div>
 </div>
 
-To say that Mexico City has a traffic problem is <a href="https://www.nearshoreamericas.com/mexico-city-traffic-congested-country-earth/" target="_blank">a bit of an understatement</a>. The traffic signs and lights are taken as mere suggestions here, and gridlock is frequent. Expect to hear blaring car horns at all hours. And just like everywhere else in the world these horns accomplish absolutely nothing. The other drivers never clear a path (shocking), much to the chagrin of the red-faced, white-knuckled horn honkers. This doesn't stop them, though. They go right on honking. Personally, I think using a car horn should be a <a href="https://en.wikipedia.org/wiki/List_of_methods_of_capital_punishment" target="_blank">punishable offense</a>. But for now it's just something you have to live with.
+To say that Mexico City has a traffic problem is <a href="https://www.nearshoreamericas.com/mexico-city-traffic-congested-country-earth/" target="_blank">a bit of an understatement</a>. The traffic signs and lights are taken as mere suggestions here, and gridlock is frequent. Expect to hear blaring car horns at all hours. And just like everywhere else in the world these horns accomplish absolutely nothing. The other drivers never clear a path (shocking), much to the chagrin of the red-faced, white-knuckled honkers. They don't let that deter them, though. They go right on honking. Personally, I think using a car horn should be a <a href="https://en.wikipedia.org/wiki/List_of_methods_of_capital_punishment" target="_blank">punishable offense</a>. But for now it's just something you have to live with.
 
-Do you like dogs? Do you like **_ten million_** dogs? Well, then, I've got good news for you. Dogs are everywhere in Mexico City. I think it's a law here that every citizen must own at least three. They're adorable, don't get me wrong, but oh man do they bark. All day and all night. Go to Parque México on a Saturday and you'll see a world where dogs rule and humans are little more than their faithful and obedient companions.
+Bars and restaurants often stay open through the night here. And house parties can easily last until dawn. Fueled by tequila and chicharrónes, these are not quiet affairs. My advice is to keep earplugs handy if you want to get any sleep. Or better yet forget the sleep, pick up a bottle of tequila, and join in the fun.
+
+Do you like dogs? Do you like **_ten million_** dogs? Well, then, I've got good news for you. Dogs are everywhere in Mexico City. I think it's a law here that every citizen must own at least three. They're adorable and oh man do they love to bark. Go to Parque México on a Saturday and you'll see a world where dogs rule and humans are little more than their faithful and obedient companions.
 
 <div class="img-container full">
   <img src="{{site.baseurl}}/assets/img/posts/2018-12-13/dog-park.jpg" alt="Dogs in Parque México" />
   <div class="img-caption">Dogs run the show around here.</div>
 </div>
 
-Bars and restaurants often stay open through the night here. And house parties can easily last until dawn. Fueled by tequila and chicharrónes, these are not quiet affairs. My advice is to keep earplugs handy if you want to get any sleep. Or better yet forget the sleep, pick up a bottle of tequila, and join in the fun.
-
 ---
 
 # Bells, Whistles, and Loud Speakers
 
-Some of the most surprising noises come from speakers and whistles mounted on vehicles. These carts, bikes, and trucks can be pretty startling at night, at least when you're not expecting them. And if your Spanish could use some work (I know mine can) the whole thing can be even more baffling, because you have no idea what everyone is yelling about.
+Some of the most surprising noises come from speakers and whistles mounted on vehicles that drive around the city. These carts, bikes, and trucks can be pretty startling at night, at least when you're not expecting them. And if your Spanish could use some work (I know mine can) the whole thing can be even more baffling, because you have no idea what everyone is yelling about.
 
 ## Tamales Oaxaqueños! Tamales Calientitos!
 
