@@ -2,5 +2,5 @@
 
 - npm install
 - bundle install
-- bundle exec jekyll serve
+- bundle exec jekyll serve [--drafts]
 - gulp watch for dev
