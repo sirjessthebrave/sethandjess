@@ -1157,7 +1157,8 @@ footer .copyright {
 }
 
 .post .post-content .post-date,
-.post .post-content .post-words {
+.post .post-content .post-words,
+.post .post-content .post-author {
   font-size: 12px;
 }
 

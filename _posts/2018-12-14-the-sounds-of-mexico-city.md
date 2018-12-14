@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Do You Hear That?! The Sounds of Mexico City"
-date: 2018-12-13
+date: 2018-12-14
 description:
-img: posts/2018-12-13/mountain-banner.jpg
+img: posts/2018-12-14/mountain-banner.jpg
 fig-caption:
 tags: [Mexico, Mexico City]
 author: Seth
@@ -14,22 +14,16 @@ One of my favorite things about visiting a new place is listening to all the unf
 And wow is this place noisy. Shockingly noisy sometimes. Life is lived in the streets here in a way that is different than anywhere else. If you're looking to buy something there's a good chance you'll run into somebody outside selling exactly what you need. You can see (and hear) these street vendors hawking their wares in small markets and on large thoroughfares throughout the city. And not to worry if you're hungry. <a href="https://en.wikipedia.org/wiki/Mexican_street_food" target="_blank">The streets are filled with people making and eating food</a>. Tortas, tacos, chilaquiles, fresh fruit, and everything else. The sounds of sizzling oil, meat on the grill, and vegetables being chopped are ever-present. You should definitely try the food if you get the chance. You might experience some intestinal distress if you're not used to it, but it's worth it.
 
 <div class="img-container full">
-  <img src="{{site.baseurl}}/assets/img/posts/2018-12-13/foods.jpg" alt="Mexican Street Food" />
+  <img src="{{site.baseurl}}/assets/img/posts/2018-12-14/foods.jpg" alt="Mexican Street Food" />
   <div class="img-caption">Typical food stall preparing antojitos during a Día de Muertos celebration</div>
 </div>
-
-To say that Mexico City has a traffic problem is <a href="https://www.nearshoreamericas.com/mexico-city-traffic-congested-country-earth/" target="_blank">a bit of an understatement</a>. The traffic signs and lights are taken as mere suggestions here, and gridlock is frequent. Expect to hear blaring car horns at all hours. And just like everywhere else in the world these horns accomplish absolutely nothing. The other drivers never clear a path (shocking), much to the chagrin of the red-faced, white-knuckled honkers. They don't let that deter them, though. They go right on honking. Personally, I think using a car horn should be a <a href="https://en.wikipedia.org/wiki/List_of_methods_of_capital_punishment" target="_blank">punishable offense</a>. But for now it's just something you have to live with.
-
-Bars and restaurants often stay open through the night here. And house parties can easily last until dawn. Fueled by tequila and chicharrónes, these are not quiet affairs. My advice is to keep earplugs handy if you want to get any sleep. Or better yet forget the sleep, pick up a bottle of tequila, and join in the fun.
 
 Do you like dogs? Do you like **_ten million_** dogs? Well, then, I've got good news for you. Dogs are everywhere in Mexico City. I think it's a law here that every citizen must own at least three. They're adorable and oh man do they love to bark. Go to Parque México on a Saturday and you'll see a world where dogs rule and humans are little more than their faithful and obedient companions.
 
 <div class="img-container full">
-  <img src="{{site.baseurl}}/assets/img/posts/2018-12-13/dog-park.jpg" alt="Dogs in Parque México" />
+  <img src="{{site.baseurl}}/assets/img/posts/2018-12-14/dog-park.jpg" alt="Dogs in Parque México" />
   <div class="img-caption">Dogs run the show around here.</div>
 </div>
-
----
 
 # Bells, Whistles, and Loud Speakers
 
@@ -37,7 +31,7 @@ Some of the most surprising noises come from speakers and whistles mounted on ve
 
 ## Tamales Oaxaqueños! Tamales Calientitos!
 
-Ever wake up in the middle of the night craving a tamale? This is your guy. The same recording is used by countless tamale vendors throughout the city. It has permeated Mexican pop culture so much that you can hear it in songs, ring tones, and TV shows.
+Ever wake up in the middle of the night craving a tamale? This is your guy. The same recording is used by countless tamale vendors throughout the city. Reportedly the recording even interrupted a presidential press conference, in the form of a <a href="https://www.latimes.com/world/mexico-americas/la-fg-mexico-sounds-2018-story.html" target="_blank">ringtone</a>.
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/VzjlyeeXnec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -57,7 +51,7 @@ These guys aren't looking to sell you anything, they're looking to buy. Have an 
 
 ## Camotes (Sweet Potatoes)
 
-This is the scary one when you're not expecting it. It's not a recording or a loud speaker, it's a loud-as-hell steam whistle attached to a mobile pressure cooker. You can hear this guy from blocks away, and it is positively deafening when you're right next to it. Be sure to speak loudly when ordering, these guys tend to be hard of hearing.
+This is the scary one when you're not expecting it. It's not a recording or a speaker, it's a loud-as-hell steam whistle attached to a mobile pressure cooker. You can hear this guy from blocks away, and it is positively deafening when you're right next to it. Be sure to speak loudly when ordering, these guys might be hard of hearing.
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/LASXJABago0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

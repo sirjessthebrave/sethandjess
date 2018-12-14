@@ -6,7 +6,7 @@ description:
 img: posts/2018-11-19/puebla.jpg
 fig-caption:
 tags: [Remote Work]
-author: Jessica
+author: Jess
 ---
 The hardest part of living abroad is seemingly the easiest: saying yes. Once the decision is made, the rest is logistics. While this seems so simple, actually committing to the trip (and the work associated with it) is the first, and scariest thing. When we decided to do it, we picked a date (fall of the next year) and started planning. Setting a departure date gives you a time frame to work with - else you will continue to plan, dream, and think about the trip but never actually make the jump. 
 
