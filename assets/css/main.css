@@ -1368,6 +1368,12 @@ a.newer-posts:hover {
   padding: 3px;
 }
 
+.post-copyright {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
 .video-container {
 	position:relative;
 	padding-bottom:56.25%;
