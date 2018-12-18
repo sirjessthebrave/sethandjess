@@ -69,4 +69,4 @@ Garbage collectors criss-cross the neighborhoods regularly and ring a loud handb
 
 ---
 
-These are some of the noises you'll hear all the time in Mexico City, but it's far from an exhaustive list. Not a day goes by that I don't hear some new whistle or bang outside and wonder what's going on. The locals, of course, are unphased. They rarely notice at all. Maybe in time I'll stop falling out of my seat every time the camote whistle blasts outside my window, but for now I just have to accept as one of the many charms of life in Mexico City.
+These are some of the noises you'll hear all the time in Mexico City, but it's far from an exhaustive list. Not a day goes by that I don't hear some new whistle or bang outside and wonder what's going on. The locals, of course, are unfazed. They rarely notice at all. Maybe in time I'll stop falling out of my seat every time the camote whistle blasts outside my window, but for now I just have to accept as one of the many charms of life in Mexico City.
