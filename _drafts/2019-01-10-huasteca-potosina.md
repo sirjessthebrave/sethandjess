@@ -20,7 +20,7 @@ Huasteca Potosina is a popular vacation destination among Méxicanos, but it has
   </div>
   <div class="img-container">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/aldea-2-f.jpg" alt="River Near Aldea Eco-Lodging in Huasteca Potosina"/>
-    <div class="img-caption">Prepare to spend a lot of time in and around the water.</div>
+    <div class="img-caption">We spent a lot of time in and around the water.</div>
   </div>
 </div>
 
@@ -59,17 +59,17 @@ One thing that frustrated me about all of the destinations in Huasteca Potosina 
   </div>
   <div class="img-container">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/aldea-dinner-f.jpg" alt="Dinner at Aldea Huasteca"/>
-    <div class="img-caption">The buffet dinners at Aldea are a great chance to meet your fellow travelers.</div>
+    <div class="img-caption">The buffet dinners at Aldea were a great opportunity to meet our fellow travelers.</div>
   </div>
 </div>
 <div class="center">
   <div class="img-container vertical">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/aldea-hut-1-f.jpg" alt="Single Bed Hut at Aldea Huasteca"/>
-    <div class="img-caption">It's not the Four Seasons, but these thatch-roofed huts will keep you dry.</div>
+    <div class="img-caption">It's not the Four Seasons, but these thatch-roofed huts were cozy and kept us dry.</div>
   </div>
   <div class="img-container vertical">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/hotel-swing-f.jpg" alt="Jess in a Poolside Chair Swing"/>
-    <div class="img-caption">Our hotel in Ciudad Valles was cozy and had a tropical charm.</div>
+    <div class="img-caption">Our hotel in Ciudad Valles was comfortable and had a tropical charm.</div>
   </div>
   <div class="img-container vertical">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/aldea-signs-f.jpg" alt="Destination Signs at Aldea Huasteca"/>
@@ -92,7 +92,7 @@ The Tampaón is excellent for rafting, and there are several tour companies that
   </div>
   <div class="img-container">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/rafting-2-f.jpg" alt="The Tour Group Swimming in the Canyon"/>
-    <div class="img-caption">Swimming in the calmer parts of the river is a lot of fun.</div>
+    <div class="img-caption">Floating down the calmer parts of the river was very relaxing.</div>
   </div>
 </div>
 
@@ -158,7 +158,7 @@ Outside the town of Tamasopo lies Puente de Dios, or the Bridge of God. Waterfal
 <div class="center image-row">
   <div class="img-container">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/puente-1-f.jpg" alt="Swimmers Clinging to Ropes at Puente de Dios"/>
-    <div class="img-caption">The ropes make it easier to navigate the current.</div>
+    <div class="img-caption">Swimming against the current was tiring. The ropes were a big help.</div>
   </div>
   <div class="img-container">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/puente-2-f.jpg" alt="Jumpers at Puente de Dios"/>
@@ -175,11 +175,11 @@ There are also plenty of caves to explore in the area, including the Gruta de Xi
 <div class="center image-row">
   <div class="img-container">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/xilo-2-f.jpg" alt="Xilo Cave"/>
-    <div class="img-caption">Spelunking here required climbing over some rocks, but nothing too difficult.</div>
+    <div class="img-caption">Spelunking in Xilo required climbing over some rocks, but nothing too difficult.</div>
   </div>
   <div class="img-container">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/xilo-3-f.jpg" alt="Xilo Cave"/>
-    <div class="img-caption">The guides are knowledgeable, but expect the tours to be in Spanish.</div>
+    <div class="img-caption">The guide was knowledgeable, but we missed a lot because the tour was in Spanish.</div>
   </div>
 </div>
 
@@ -194,7 +194,7 @@ Edward James is a fascinating character and I encourage you to learn more about 
 <div class="center image-row">
   <div class="img-container">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/pozas-1-f.jpg" alt="The Surrealist Gardens at Las Pozas"/>
-    <div class="img-caption">The forest grows in and around the surrealist structures.</div>
+    <div class="img-caption">The forest grows in and around the surrealist structures at Las Pozas.</div>
   </div>
   <div class="img-container">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/pozas-2-f.jpg" alt="The Surrealist Gardens at Las Pozas"/>
@@ -208,11 +208,11 @@ Edward James is a fascinating character and I encourage you to learn more about 
   </div>
   <div class="img-container vertical">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/pozas-5-f.jpg" alt="The Surrealist Gardens at Las Pozas"/>
-    <div class="img-caption">There's not enough greenery, we better put in some potted plants.</div>
+    <div class="img-caption">I guess there wasn't enough greenery, so they added some potted plants.</div>
   </div>
   <div class="img-container vertical">
     <img src="{{site.baseurl}}/assets/img/posts/2019-01-11/not-to-be-reproduced.jpg" alt="Not to be Reproduced by René Magritte"/>
-    <div class="img-caption">"Not to be Reproduced" by René Magritte is a portrait of James, who commissioned the work.</div>
+    <div class="img-caption">René Magritte famously painted a portrait of James, which now hangs in a museum in the Netherlands.</div>
   </div>
 </div>
 
